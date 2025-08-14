@@ -50,3 +50,5 @@ if [[ -f /data/vacuumstreamer/video_monitor ]]; then
 fi
 EOF
 ```
+
+Credits to @Uberi, source: https://anthony-zhang.me/blog/offline-robot-vacuum/
